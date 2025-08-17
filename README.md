@@ -2,6 +2,7 @@
 This project is part of **Task 2** of my Data Science Internship.  
 It involves **data cleaning, exploratory data analysis (EDA), model training, and evaluation** to predict passenger survival on the Titanic using **Logistic Regression**.
 
+---
 
 ## 📌 Project Overview
 The Titanic dataset is one of the most famous datasets in the data science world.  
@@ -11,6 +12,7 @@ Our goal is to:
 3. **Train** a Logistic Regression model to predict survival.
 4. **Evaluate** model performance using various metrics.
 
+---
 
 ## 📂 Dataset
 Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
@@ -28,6 +30,7 @@ Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titan
   - `Embarked` - Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
   - `Survived` - Target variable (0 = No, 1 = Yes)
  
+---
 
 ## 🖥 Technologies Used
 - Python
@@ -35,6 +38,7 @@ Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titan
 - Matplotlib, Seaborn
 - Scikit-learn
  
+---
 
 ## 🛠 Steps Performed
 
@@ -59,12 +63,14 @@ Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titan
 - **Classification Report**
 - Comparison of actual vs predicted values.
 
+---
 
 ## 📊 Results
 - **Accuracy:** ~82%
 - Model shows higher survival prediction accuracy for **female passengers** and **1st-class passengers**.
 - Misclassifications often occurred for **young males in higher classes** and **elderly passengers**.
 
+---
 
 ## 📈 Visualizations
 Some of the EDA visualizations included:
